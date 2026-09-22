@@ -32,7 +32,7 @@ Currently, I design, architect, and deploy end-to-end **AI-powered systems, LLM 
 - **Google Cloud Platform (GCP):** BigQuery, Cloud Storage
 
 #### 💻 Programming Languages & Data Engineering
-- **Languages:** Python, C#, JavaScript, SQL
+- **Languages:** Python, TypeScript, JavaScript, SQL
 - **Databases & Warehousing:** BigQuery, Cosmos DB, PostgreSQL, Microsoft SQL Server
 
 #### ⚙️ Automation & Enterprise Integration
@@ -51,11 +51,10 @@ Currently, I design, architect, and deploy end-to-end **AI-powered systems, LLM 
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=francodemare&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Franco's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francodemare&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=francodemare&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
