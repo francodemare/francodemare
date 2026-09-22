@@ -51,14 +51,15 @@ Currently, I design, architect, and deploy end-to-end **AI-powered systems, LLM 
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 🔬 Technical Interests & Applied Research
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=francodemare&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+- 🤖 **Agentic Workflows & Reasoning:** Exploring advanced RAG patterns, agent orchestration, and context management protocols for enterprise applications.
+- ⚡ **Time-Series & Signal Decomposition:** Researching predictive modeling for energy and sensor telemetry combining signal processing (EMD) and deep learning architectures.
+- 🛡️ **Production AI & Security:** Implementing model guardrails, data governance, and secure multi-cloud deployment best practices.
 
 ---
 
 <p align="center">
-  <sub>Let's connect and build intelligent systems together!</sub>
+  <i>"Bridging academic research and production engineering to transform complex data into intelligent, resilient systems."</i>
+  <br /><br />
 </p>
